@@ -1,0 +1,31 @@
+.displayblog{
+    padding: 5px ;
+    margin: 10px;
+     width: 98%;
+     /* background-color: red; */
+     height: auto;
+}
+ i{
+    margin-bottom: 5px;
+    margin: 10px;
+}
+.cards{
+    width: 25%;
+    padding: 15px;
+    margin: 5px;
+    height: auto;
+    background-color: whitesmoke;
+    /* align-items: left; */
+    display: inline-block;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* vertical-align: top; */
+    border-radius: 10px;
+}
+
+.blog-topic{
+    font-size: 25px;
+}
+.blog-content{
+    font-size: 15px;
+}

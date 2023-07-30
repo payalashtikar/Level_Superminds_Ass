@@ -1,0 +1,57 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+}
+#form{
+    background-color: #2c3e50;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    /* top: 50%; */
+}
+.user ,.email, .pass{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 5px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* width: 500px; */
+}
+
+input{
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+
+}
+
+.sub button{
+    padding: 5px;
+    width: 200px;
+    /* width: full; */
+    /* margin-left: 4px; */
+    /* margin-top: 5px; */
+    margin: 15px;
+    border-radius: 10px;
+    /* border: none; */
+    
+}
+
+.sub button:hover{
+    background-color: #2c3e50;
+    color: white;
+}
+.sub{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
