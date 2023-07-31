@@ -10,10 +10,24 @@ flow of the project:
 4. you can create block from homepage 
 5. and you can also able to update and delete the post from homepage as well 
 6. logout from homepage 
+----------------------------------------------------------------------------------------
+Software :
 
+1. mysql download : mysql-installer-community-8.0.34.0.msi
+2. nodejs 
+3. react for frontend
+------------------------------------------------------------------------------------------
 
-mysql download : mysql-installer-community-8.0.34.0.msi
----------------------------------
+Creat .env file inside server folder and mentioned database details as per your database
+mentioned your database username , password and database 
+
+HOST ='localhost'
+USER =''
+PASSWORD =''
+DATABASE=''
+
+this all data you can get while you are installing mysql 
+-------------------------------------------------------------------------------------------------
 for running app : 
 
 inside client folder : npm i 
