@@ -1,0 +1,16 @@
+Blog Post
+--------------------------------------------------------------
+Aim : User can able to perform crud operation on blog post 
+
+
+flow of the project:
+1. Signup 
+2. Login
+3. go to the homepage which contains all posts
+4. you can create block from homepage 
+5. and you can also able to update and delete the post from homepage as well 
+6. logout from homepage 
+
+
+mysql download : mysql-installer-community-8.0.34.0.msi
+
