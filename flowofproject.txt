@@ -13,4 +13,11 @@ flow of the project:
 
 
 mysql download : mysql-installer-community-8.0.34.0.msi
+---------------------------------
+for running app : 
 
+inside client folder : npm i 
+inside server folder : npm i 
+
+start client server : npm start
+start server : npm run dev
